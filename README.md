@@ -1,6 +1,10 @@
 # Projekt1
 
-**Agoj**
-**:D**
-**its begining to look a lot like christmass**
-nig
+**Navrh projektu:**
+**Interaktivní To-Do List**  
+co od toho očekávat:  
+- Možnost vložení vlastního úkolu
+- Uložení do "databáze" nebo localstorage
+- Vytvoření dynamického seznamu na stránce
+- Možnost odškrtnout úkol za hotový, čímž se po resetování stránky smaže
+

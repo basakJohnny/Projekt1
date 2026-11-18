@@ -1,5 +1,4 @@
-# Projekt1
-
+# To-Do List
 **Navrh projektu:**
 **Interaktivní To-Do List**  
 co od toho očekávat:  
